@@ -249,9 +249,10 @@ a.sidebar-nav-item:focus {
   color: #8f5536;
 }
 
+/* PH Blue */
 .theme-base-ph .sidebar {
-  background-color: ##0076AE;
+  background-color: #0076AE;
 }.theme-base-ph .content a,
 .theme-base-ph .related-posts li a:hover {
-  color: ##0076AE;
+  color: #0076AE;
 }
